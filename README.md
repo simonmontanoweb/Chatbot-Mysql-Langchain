@@ -23,6 +23,4 @@ The project uses LangChain to integrate a chatbot with a SQL database with the G
 
 ### Run Streamlit File
 > streamlit run app.py
-
- ### Clone the Repository
  
