@@ -1,0 +1,8 @@
+streamlit
+langchain
+sqlalchemy
+langchain-community
+langchain-groq
+streamlit-js-eval
+mysql-connector-python
+langchain-google-genai
